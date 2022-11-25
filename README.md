@@ -8,6 +8,7 @@ This work also focus on the study of human cognition levels of understanding to 
 - Suffian, Muhammad, Muhammad Yaseen Khan, and Alessandro Bogliolo. "Towards Human Cognition Level-based Experiment Design for Counterfactual Explanations (XAI)." arXiv preprint arXiv:2211.00103 (2022). https://arxiv.org/abs/2211.00103
 
 ##### Projects
+- Feedback-based Counterfactual Explanations [FCE](https://github.com/msnizami/FCE)
 - Counterfactual explanation with User feedback [UFCE](https://github.com/msnizami/UFCE)
 
 Further, research interests and other research works can be found at [Google Scholar](https://scholar.google.com/citations?user=MSrYRgEAAAAJ&hl=en)
