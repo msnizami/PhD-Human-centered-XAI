@@ -4,8 +4,10 @@ The main focus of PhD research is to design and develop frameworks and tools for
 This work also focus on the study of human cognition levels of understanding to design/generate better explanations.
 
 ##### The latest research papers are listed below:
-- M. Suffian, P. Graziani, J. M. Alonso and A. Bogliolo, "FCE: Feedback Based Counterfactual Explanations for Explainable AI," in IEEE Access, vol. 10, pp. 72363-72372, 2022, doi: 10.1109/ACCESS.2022.3189432. https://ieeexplore.ieee.org/abstract/document/9819899
+- M. Suffian, Alessandro Bogliolo. "Investigation and Mitigation of Bias in Explainable AI", accepted, BEWARE joint Workshop at AIxIA Nov. 2022, Italy.
+- M. Suffian, Sara Montagna, Alessandro Bogliolo, Claudio Ortolani, Stefano Papa, Mario D'Atri. "Machine Learning for Automated Gating of Flow Cytometry Data", accepted, Workshop of AI for HealthCare HC@AIxIA joint Workshop at AIxIA, Nov. 2022, Italy.
 - Suffian, Muhammad, Muhammad Yaseen Khan, and Alessandro Bogliolo. "Towards Human Cognition Level-based Experiment Design for Counterfactual Explanations (XAI)." arXiv preprint arXiv:2211.00103 (2022). https://arxiv.org/abs/2211.00103
+- M. Suffian, P. Graziani, J. M. Alonso and A. Bogliolo, "FCE: Feedback Based Counterfactual Explanations for Explainable AI," in IEEE Access, vol. 10, pp. 72363-72372, 2022, doi: 10.1109/ACCESS.2022.3189432. https://ieeexplore.ieee.org/abstract/document/9819899
 
 ##### Projects
 - Feedback-based Counterfactual Explanations [FCE](https://github.com/msnizami/FCE)
