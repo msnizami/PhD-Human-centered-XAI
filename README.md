@@ -1,20 +1,44 @@
 # Welcome!
 I am a PhD researcher in "Explainable AI" at the University of Urbino, Italy.
 The main focus of PhD research is to design and develop frameworks and tools for "Human-centered explanations" with a speacial focus on Human-centered Counterfactual Explanations.
-This work also focus on the study of human cognition levels of understanding to design/generate better explanations.
+The main focus of PhD rsearch is on devise trustworthy, actioanble, and understandable explanations for AI systems.
 
-##### The latest research papers are listed below:
-- M. Suffian, Alessandro Bogliolo. "Investigation and Mitigation of Bias in Explainable AI", accepted, BEWARE joint Workshop at AIxIA Nov. 2022, Italy.
-- M. Suffian, Sara Montagna, Alessandro Bogliolo, Claudio Ortolani, Stefano Papa, Mario D'Atri. "Machine Learning for Automated Gating of Flow Cytometry Data", accepted, Workshop of AI for HealthCare HC@AIxIA joint Workshop at AIxIA, Nov. 2022, Italy.
-- Suffian, Muhammad, Muhammad Yaseen Khan, and Alessandro Bogliolo. "Towards Human Cognition Level-based Experiment Design for Counterfactual Explanations (XAI)." arXiv preprint arXiv:2211.00103 (2022). https://arxiv.org/abs/2211.00103
-- M. Suffian, P. Graziani, J. M. Alonso and A. Bogliolo, "FCE: Feedback Based Counterfactual Explanations for Explainable AI," in IEEE Access, vol. 10, pp. 72363-72372, 2022, doi: 10.1109/ACCESS.2022.3189432. https://ieeexplore.ieee.org/abstract/document/9819899
-
-##### Projects
+### Projects
 - Feedback-based Counterfactual Explanations [FCE](https://github.com/msnizami/FCE)
 - Counterfactual explanation with User feedback [UFCE](https://github.com/msnizami/UFCE)
+- CL-XAI Pilot Study: Toward Enhanced Cognitive Learning with Explainable AI [CL-XAI(https://arxiv.org/abs/2312.12290)]
+- ExpGame Large Scale study for qualitative evaluations of 'UFCE'... soon be availble
+- How XAI-assited Decision-Making Steer Human behaviour [(https://github.com/msnizami/XAI-steer-Human-Behaviour)]...soon be availble
 
-Further, research interests and other research works can be found at [Google Scholar](https://scholar.google.com/citations?user=MSrYRgEAAAAJ&hl=en)
+#### Toward Enhanced Cognitive Learning with Explainable AI (CL-XAI)
+
+An interactive game designed to enhance cognitive learning through domain-agnostic combinatorial tasks. The game is deployed on our web server, and you can access it [here](http://85.235.144.146:8888/index.html).
+
+##### Key Objectives of CL-XAI
+
+Our research focuses on two main objectives:
+
+1. **Understanding Human Comprehension:** Explore how human learners comprehend AI models using XAI tools.
+2. **Evaluating Tool Effectiveness:** Evaluate the effectiveness of XAI tools through valuable human feedback.
+
+
+#### Our other related works:
+- [Toward enriched Cognitive Learning with XAI](https://arxiv.org/abs/2312.12290).
+  
+- [FCE: Feedback Based Counterfactual Explanations for Explainable AI](https://ieeexplore.ieee.org/document/9819899)
+  
+- [Investigating Human-Centered Perspectives in Explainable Artificial Intelligence](https://ceur-ws.org/Vol-3518/paper4.pdf)
+  
+- [Towards Human Cognition Level-based Experiment Design for Counterfactual Explanations](https://ieeexplore.ieee.org/abstract/document/9994203)
+  
+
+
+##### The latest research papers are listed below:
+- [How to Build Self-Explaining Fuzzy Systems: From Interpretability to Explainability [AI-eXplained]](https://ieeexplore.ieee.org/document/10384509/references#references)
+
+
+Further research works can be found at [Google Scholar](https://scholar.google.com/citations?user=MSrYRgEAAAAJ&hl=en)
 
 This PhD research is mentored by:
-- Supervisor: Professor Alessandro Bogliolo (Digit Srl, Italy) [Scientific works](https://scholar.google.com/citations?user=M9Ood7kAAAAJ&hl=en)
-- Co-Supervisor: Jose Maria Alonso-Moral (CiTIUS, Spain) [Scientific works](https://scholar.google.com/citations?user=wDMgf44AAAAJ&hl=en)
+- Professor Alessandro Bogliolo (DiSpeA, University of Urbino, Italy) [Scientific works](https://scholar.google.com/citations?user=M9Ood7kAAAAJ&hl=en)
+- Jose Maria Alonso-Moral (CiTIUS, University of Santiago de Compostela, Spain) [Scientific works](https://scholar.google.com/citations?user=wDMgf44AAAAJ&hl=en)
